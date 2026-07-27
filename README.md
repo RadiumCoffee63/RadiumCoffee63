@@ -6,12 +6,12 @@
       <img src="./assets/profile.png" alt="LIHUI" width="280">
     </td>
     <td>
-      <h3>关于我</h3>
+      <h3 style="color: #4A90D9;">关于我</h3>
       <p>
         · Somina minecraft服务器的腐竹<br>
-        · 喜欢 Linux、服务器、自托管<br>
+        · 喜欢 <span style="color: #E67E22;">Linux</span>、<span style="color: #27AE60;">服务器</span>、自托管<br>
         · 写博客，爱记录，重新热爱起生活<br>
-        · 对核物理、聚变、粒子物理,生物化学有兴趣
+        · 对核物理、聚变、粒子物理、生物化学有兴趣
       </p>
     </td>
   </tr>
@@ -44,4 +44,4 @@
 
 ---
 
-> “把复杂的东西说清楚，比把简单的东西说复杂更难。”
+> “有些伤痛永远无法愈合”
