@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td>
-      <img src="./assets/profile.png" alt="立绘" width="280">
+      <img src="./assets/profile.png" alt="LIHUI" width="280">
     </td>
     <td>
       <h3>关于我</h3>
